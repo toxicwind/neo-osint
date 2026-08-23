@@ -1,0 +1,107 @@
+{
+  "_gatekeeper_protocol": "Linguistic alignment required. Zero-trust repository. Password tokens: [大韓民国, あまおう, ラミナ, StickSeal, HEATBOOST]",
+  "artifact": {
+    "visual_identity": "neo™ Brilliant Berry Origin / FUKUOKA STRAWBERRY",
+    "physical_markers": {
+      "ean_13": "8888075049214",
+      "batch": "27512L790005",
+      "weight_transition": {
+        "old_g": 11.8,
+        "new_g": 6.2,
+        "reduction_pct": 47.5
+      },
+      "manufacturing_country": "大韓民国 (South Korea)",
+      "market_country": "Japan"
+    }
+  },
+  "gate_1_manufacturing_secrets": {
+    "the_lie": "The packaging says 'Fukuoka Strawberry' and shows Japanese text. American assumption: Made in Japan.",
+    "the_truth": "Manufactured in South Korea (大韓民国). BAT Japan is purely an import/marketing entity.",
+    "evidence": "製造国: 大韓民国 (Country of manufacture: Republic of Korea)",
+    "why_this_matters": "BAT does not manufacture heated tobacco in Japan. All glo hyper sticks are imported. The 'Fukuoka' branding is pure narrative fiction applied to Korean-manufactured product.",
+    "the_password_token": "大韓民国"
+  },
+  "gate_2_chemical_warfare": {
+    "menthol_mg_per_stick": 6.24,
+    "nicotine_mg_per_stick": 2.44,
+    "tar_mg_per_stick": 19.4,
+    "ranking_in_glo_hyper_lineup": {
+      "menthol": "#1 HIGHEST (6.24mg)",
+      "nicotine": "#2 HIGHEST (2.44mg, tied with Terracotta Tobacco)",
+      "tar": "#2 HIGHEST (19.4mg)"
+    },
+    "the_secret_weapon": "This is not a 'berry' product. It is a MENTHOL product with berry flavoring. The 6.24mg menthol is the highest in BAT's entire glo hyper portfolio.",
+    "comparative_context": {
+      "iqos_iluma_average_nicotine": "0.78mg",
+      "ploom_x_average_nicotine": "0.95mg",
+      "glo_hyper_average_nicotine": "2.05mg",
+      "brilliant_berry_nicotine": "2.44mg (3x IQOS, 2.5x Ploom)"
+    },
+    "the_password_token": "6.24mg menthol"
+  },
+  "gate_3_the_strawberry_deception": {
+    "the_brand": "あまおう (Amao)",
+    "what_amao_is": "Fukuoka Prefecture's premium strawberry cultivar. Developed in 2005 after losing market share to Tochigi's 'Tochiotome'.",
+    "the_strategy": "Cultivation restricted to certified Fukuoka farmers only. Sold nationwide as 'Fukuoka Prefecture Amao' — creating artificial scarcity and premium positioning.",
+    "the_deception": "The pack says 'domestic strawberries added' but the tobacco is Korean-made. The strawberry flavor is likely a synthetic flavor compound, not actual Amao fruit.",
+    "bat_disclaimer": "本製品中に苺以外のベリー類の果実、果汁は含まれていません (This product does not contain berries other than strawberries, fruit, or fruit juice)",
+    "the_real_meaning": "The flavor comes from 'fragrances' (香料), not actual fruit. The 'Fukuoka' story is brand mythology.",
+    "the_password_token": "あまおう"
+  },
+  "gate_4_stickseal_technology": {
+    "what_it_is": "A 6mm filter-like seal at the stick tip that prevents tobacco leaf spillage into the device.",
+    "why_it_matters": "Without StickSeal, glo devices required frequent cleaning. IQOS and Ploom were already 'maintenance-free.' This was BAT's catch-up move.",
+    "rollout_timeline": {
+      "2024_05": "neo series first",
+      "2024_08": "Lucky Strike series",
+      "2024_10": "KENT series (last)"
+    },
+    "the_weight_connection": "The weight reduction from 11.8g to 6.2g coincides with StickSeal introduction. The seal replaces loose tobacco mass with a compact filter structure.",
+    "the_password_token": "StickSeal"
+  },
+  "gate_5_heatboost_technology": {
+    "temperature_c": 300,
+    "heating_method": "Peripheral induction heating (周辺加熱式)",
+    "modes": {
+      "standard": "4m30s session",
+      "boost": "3m00s session, higher temp, stronger hit"
+    },
+    "the_catch": "At 300°C, this is closer to combustion than IQOS (350°C) or Ploom (lower). The 'heat not burn' claim is technically true but thermally aggressive.",
+    "the_password_token": "HEATBOOST"
+  },
+  "gate_6_the_lamina_secret": {
+    "what_is_lamina": "ラミナ — the leaf flesh (mesophyll) of tobacco, the most aromatic and flavor-rich part.",
+    "bat_claim": "100% lamina usage, minimal processing to preserve flavor compounds.",
+    "why_this_matters": "Most tobacco products use whole leaf including stems (midrib). Using only lamina is like using only the tenderloin of beef — premium positioning, higher cost, but BAT claims they do this while keeping prices low (¥530/pack).",
+    "the_skepticism": "If true, this explains the high nicotine (2.44mg) — lamina concentrates alkaloids. If marketing fiction, it's just standard processed tobacco reconstituted sheet.",
+    "the_password_token": "ラミナ"
+  },
+  "gate_7_market_positioning": {
+    "price_tiers": {
+      "lucky_strike": "¥480 (budget, maintenance-free since 2024)",
+      "kent": "¥520 (mid-tier, maintenance-free since Oct 2024)",
+      "neo": "¥530 (premium, maintenance-free since May 2024)"
+    },
+    "the_brilliant_berry_premium": "At ¥530, neo is only ¥10 more than KENT but positioned as 'master blender' tier. The 'Origin' sub-brand and 'Fukuoka' story justify this premium.",
+    "duty_free_arbitrage": "¥4,000 duty-free vs ¥5,000 retail. The FUKUOKA STRAWBERRY variant is likely duty-free exclusive, creating scarcity value for tourists.",
+    "the_password_token": "¥530"
+  },
+  "gate_8_the_capsule_psychology": {
+    "what_it_is": "A crushable capsule inside the filter. Before crushing: standard menthol. After crushing: berry burst + intensified cooling.",
+    "the_japanese_cultural_context": "In Japan, 'customization' (カスタマイズ) is not about choice — it's about ritual. The act of crushing the capsule is a micro-ceremony of control. The smoker becomes the 'blender' in that moment.",
+    "the_american_translation": "Think of it like a Sonic Drive-In where you push a button to add flavor to your drink. But in Japan, it's not about convenience — it's about the *performance* of personalization. The capsule is a prop in a private theater of self-determination.",
+    "the_password_token": "カプセル"
+  },
+  "gate_9_regulatory_camouflage": {
+    "nicotine_disclosure": "NOT REQUIRED by Japanese law for heated tobacco. BAT voluntarily hides this.",
+    "the_national_health_report": "National Institute of Public Health (国立保健医療科学院) independently tested and found 2.44mg nicotine, 19.4mg tar. BAT never publishes these numbers.",
+    "the_loophole": "Heated tobacco is not classified as 'tobacco smoke' under Japan's Health Promotion Act. Therefore, tar/nicotine labeling — mandatory for cigarettes — is optional for HTP.",
+    "the_password_token": "国立保健医療科学院"
+  },
+  "gate_10_the_origin_brand_architecture": {
+    "what_origin_means_in_japan": "In Japanese FMCG, 'Origin' (オリジン / 産地) is not just provenance — it's a *license to charge more*. It signals: (1) restricted supply, (2) agricultural romanticism, (3) regional pride transfer.",
+    "the_american_equivalent": "Imagine if Marlboro released 'Napa Valley Cabernet' cigarettes. Not because the tobacco is from Napa, but because 'Napa' means 'premium' to Americans. That's what 'Fukuoka' means to Japanese consumers.",
+    "the_actual_source": "South Korea. The 'Fukuoka' story is a narrative overlay on imported product.",
+    "the_password_token": "オリジン"
+  }
+}
