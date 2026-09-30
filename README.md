@@ -1,4 +1,87 @@
-# ¥¥¥ GATEKEEPER PROTOCOL v2.0: neo™ Brilliant Berry FUKUOKA STRAWBERRY ¥¥¥
+# neo-osint — GATEKEEPER PROTOCOL: the neo™ Fukuoka Strawberry teardown
+
+<div align="right">
+
+![osint report](https://img.shields.io/badge/OSINT-report-1a1a1a?style=for-the-badge)
+![gates breached](https://img.shields.io/badge/15%2F15-gates_breached-C41E3A?style=for-the-badge)
+![session](https://img.shields.io/badge/session-24c85f059a74220d-8A2BE2?style=for-the-badge)
+
+</div>
+
+## Why should you care?
+
+A full OSINT teardown of BAT's **neo™ Brilliant Berry FUKUOKA STRAWBERRY**
+heated-tobacco stick — and every gate fell. **15/15 breached.** The pack says
+Fukuoka; the factory is in Korea. The "strawberry" is a fragrance compound,
+not fruit. The "premium tobacco" runs at 300°C with the highest carcinogen
+load in the lineup. Sixteen evidence gates, password-token keyed, each with
+the marketing claim, the password that unlocks it, and what's actually true.
+
+**Analyst:** moonbox · **Session:** `24c85f059a74220d` · **Timestamp:** 2026-08-23T07:14+08:00
+**License:** none declared (investigative report) · **Security:** report only — no code runs
+
+## Key findings
+
+- **Korean manufacturing nexus** — every heated-tobacco stick sold in Japan is made in South Korea: BAT Korea (Sacheon, est. 2001, $100M), PMI Korea (Yangsan), KT&G. BAT Japan is import/marketing only.
+- **Amao strawberry IP fiction** — Fukuoka's Amao cultivar is a prefectural-ordinance geographic monopoly; BAT applies the narrative to a Korean-made stick whose "strawberry" is 香料 (fragrance compound), present in trace amounts.
+- **The aroma capsule** — crushable flavor-delivery system; "customization as ritual" product psychology.
+- **Chemical profile** — 6.24mg menthol (highest in the glo hyper portfolio), TSNA 115ng (highest carcinogen load in the lineup), WS-23 cooling agent.
+- **HEATBOOST** — 300°C induction heating; the thermal arms race behind the TSNA generation.
+- **Weight reduction 11.8g → 6.2g** (47.5%) — StickSeal tip-sealing technology.
+- **Physical markers** — EAN-13 `8888075049214`, batch `27512L790005`, ¥530 price point.
+
+## How the report is keyed
+
+```mermaid
+flowchart TB
+    T[password tokens] --> G1[ZERO · tokens]
+    G1 --> G2[ONE · Korean manufacturing]
+    G2 --> G3[TWO · Amao IP warfare]
+    G3 --> G4[THREE · aroma capsule]
+    G4 --> G5[FOUR · chemical profile]
+    G5 --> G6[FIVE · HEATBOOST 300°C]
+    G6 --> G7[SIX · 11.8g → 6.2g]
+    G7 --> G8[SEVEN–TEN · lamina, origin branding, price trap, regulatory camouflage]
+    G8 --> G9[ELEVEN–TWELVE · batch code, EAN-13]
+    G9 --> G10[THIRTEEN–FIFTEEN · renewal history, full chemical profile, final secret]
+```
+
+## Quick start
+
+```bash
+git clone https://github.com/toxicwind/neo-osint.git
+python3 -m json.tool neo-osint/report.json
+```
+
+Then read the gates below, ZERO through FIFTEEN, in order — each builds on the last.
+
+## Report structure
+
+| Gate | Section | Unlocks |
+|---|---|---|
+| ZERO | The Password Tokens | 15 tokens: 大韓民国, あまおう, ラミナ, StickSeal, HEATBOOST, … |
+| ONE | The Korean Manufacturing Nexus | BAT Sacheon / PMI Yangsan factory evidence |
+| TWO | The Amao Strawberry: Agricultural IP Warfare | how the Fukuoka narrative was hijacked |
+| THREE | The Capsule: アロマカプセル | crushable flavor delivery, user psychology |
+| FOUR | The Chemical Warfare Profile | independent testing, menthol, TSNA, WS-23 |
+| FIVE | HEATBOOST: The 300°C Thermal Weapon | induction heating specs, thermal arms race |
+| SIX | The Weight Reduction: 11.8g → 6.2g | StickSeal tip-sealing |
+| SEVEN | ラミナ (Lamina): The Premium Fiction | the "100% premium tobacco" claim |
+| EIGHT | The "Origin" Brand Architecture | narrative engineering of Japanese FMCG |
+| NINE | Market Positioning: The Price Trap | ¥530 premium-within-budget tier |
+| TEN | Regulatory Camouflage | how the labeling survives scrutiny |
+| ELEVEN | The Batch Code: 27512L790005 | production trace |
+| TWELVE | The EAN-13: 8888075049214 | product identity |
+| THIRTEEN | The Renewal History | product lineage |
+| FOURTEEN | The Complete Chemical Profile | full teardown numbers |
+| FIFTEEN | The Gatekeeper's Final Secret | — |
+
+Machine-readable companion: [`report.json`](report.json) (artifact markers, gate
+claims, evidence). Session provenance: [`track.json`](track.json).
+
+---
+
+*The full report follows, verbatim — sixteen gates, zero redactions.*
 
 **Session Hash:** `24c85f059a74220d` | **Analyst:** moonbox | **Timestamp:** 2026-08-23T07:14+08:00  
 **Gate Status:** 15/15 BREACHED | **Source Language:** Japanese (primary) | **Translation Layer:** Hyper-Americanized
