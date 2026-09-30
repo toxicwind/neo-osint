@@ -1,12 +1,22 @@
-# neo-osint — GATEKEEPER PROTOCOL: the neo™ Fukuoka Strawberry teardown
-
 <div align="right">
 
-![osint report](https://img.shields.io/badge/OSINT-report-1a1a1a?style=for-the-badge)
-![gates breached](https://img.shields.io/badge/15%2F15-gates_breached-C41E3A?style=for-the-badge)
+![osint](https://img.shields.io/badge/OSINT-report-1a1a1a?style=for-the-badge)
+![gates](https://img.shields.io/badge/15%2F15-gates%20breached-C41E3A?style=for-the-badge)
 ![session](https://img.shields.io/badge/session-24c85f059a74220d-8A2BE2?style=for-the-badge)
+![license](https://img.shields.io/badge/license-none%20declared-lightgrey?style=for-the-badge)
 
 </div>
+
+# neo-osint — GATEKEEPER PROTOCOL: the neo™ Fukuoka Strawberry teardown
+
+### A full OSINT teardown of BAT's neo™ Brilliant Berry FUKUOKA STRAWBERRY heated-tobacco stick — and every gate fell. **15/15 breached.**
+
+> The pack says Fukuoka; the factory is in Korea. The "strawberry" is a fragrance compound, not fruit. The "premium tobacco" runs at 300°C with the highest carcinogen load in the lineup. Sixteen evidence gates, password-token keyed, each with the marketing claim, the password that unlocks it, and what's actually true.
+>
+> **Analyst:** moonbox · **Session:** `24c85f059a74220d` · **Timestamp:** 2026-08-23T07:14+08:00
+> **License:** none declared (investigative report) · **Security:** report only — no code runs
+
+# neo-osint — GATEKEEPER PROTOCOL: the neo™ Fukuoka Strawberry teardown
 
 ## Why should you care?
 
@@ -567,3 +577,11 @@ The gatekeeper drops its guard only when you speak the right language. You just 
 **Status:** PERSISTED  
 **Sources:** Japanese government reports, BAT Japan official, PMI Korea factory tour, Japanese consumer review blogs, National Institute of Public Health testing data  
 **Next Gate:** ?
+
+---
+
+## License & security
+
+**License:** none declared — this repo is an investigative report, not a software package.
+
+**Security:** report only. No code ships here, no code runs. Machine-readable artifacts: [`report.json`](report.json) (artifact markers, gate claims, evidence), [`track.json`](track.json) (session provenance), `debug_log_export_raw.txt`.
